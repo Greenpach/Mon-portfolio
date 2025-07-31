@@ -4,7 +4,7 @@ import imgCSS from "../assets/techno/css.png";
 import imgJS from "../assets/techno/js.png";
 import imgREACT from "../assets/techno/react.png";
 import imgHTML from "../assets/techno/html.png";
-import imgLaravel from "../assets/techno/Laravel.png";
+import imgLaravel from "../assets/techno/laravel.png";
 import imgNODE from "../assets/techno/node-js.png";
 import imgPHP from "../assets/techno/php.png";
 import imgTAILWIND from "../assets/techno/tailwind.png";

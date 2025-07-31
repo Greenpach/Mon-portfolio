@@ -6,21 +6,21 @@ const aboutSections = [
   {
     id: 1,
     title: "Developpeur Frontend",
-    description: "Je suis un Developpeur frontend avec une bonne experience",
+    description: "Développeur frontend passionné avec une solide expérience dans la création d’interfaces web modernes, performantes et responsives",
     icon: <LetterText className="text-accent scale-150" />,
   },
 
   {
     id: 2,
     title: "Developpeur Backend",
-    description: "Je maitrise les bases du develoippement backend",
+    description: "Développeur backend maîtrisant les fondamentaux de la conception d’API, de la gestion des bases de données et de l’architecture serveur.",
     icon: <CalendarSync className="text-accent scale-150" />,
   },
   {
     id: 3,
     title: "Passionné de l' UI/UX",
     description:
-      "J'aime Creer des interfaces utulisateurs attrayantes et fonctionnelles",
+      "J’aime concevoir des interfaces utilisateurs à la fois esthétiques, intuitives et fonctionnelles, en mettant l’accent sur l’expérience et l’ergonomie",
     icon: <Paintbrush className="text-accent scale-150" />,
   },
 ];
