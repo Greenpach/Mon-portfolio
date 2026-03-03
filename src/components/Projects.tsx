@@ -10,8 +10,8 @@ const projects = [
     {
         id: 1,
         title: 'Gestionnaire de scolarité',
-        description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae magni deserunt debitis recusandae ab harum totam, eum facilis et ratione officia ut inventore aspernatur',
-        technologies: ['php', 'Html', 'Boostrap'],
+        description: 'Application web de gestion de scolarité développée en PHP avec une base de données relationnelle, intégrant JavaScript et jQuery pour une interaction dynamique côté client.Le système permet la gestion des élèves, des inscriptions, des paiements et du suivi académique via une interface administrateur sécurisée. Le projet inclut la manipulation des données en base (CRUD), la validation des formulaires, l’actualisation dynamique des contenus (AJAX) et l’organisation structurée du code côté serveur et client..',
+        technologies: ['php', 'Html', 'Boostrap','javascript'],
         demoLink: '#',
         repoLink: '#',
         image: img1,
@@ -19,7 +19,7 @@ const projects = [
     {
         id: 2,
         title: 'Plateforme Information sur les pays du monde',
-        description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae magni deserunt debitis recusandae ab harum totam, eum facilis et ratione officia ut inventore aspernatur',
+        description: 'Application web développée pour consulter les informations détaillées des pays du monde à partir d’une API REST externe. Le projet implémente la récupération et la gestion asynchrone des données, l’affichage dynamique des informations (population, superficie, capitale, région, monnaie, etc.) ainsi qu’un système de recherche et de filtrage en temps réel.L’interface est conçue de manière responsive avec une architecture modulaire basée sur des composants réutilisables. Ce projet met en avant la gestion d’état, l’intégration d’API, l’optimisation des performances et l’organisation structurée du code.',
         technologies: ['React'],
         demoLink: 'https://pays-info.netlify.app/',
         repoLink: '#',
