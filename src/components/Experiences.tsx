@@ -9,9 +9,8 @@ import imgNODE from "../assets/techno/node-js.png";
 import imgPHP from "../assets/techno/php.png";
 import imgTAILWIND from "../assets/techno/tailwind.png";
 
-import google from "../assets/companies/Crow.jpg";
-import meta from "../assets/companies/Mandigo.jpg";
-
+import mandigo from "../assets/companies/Mandigo.jpg";
+import atech from "../assets/companies/ahmed-tech-logo.jpg";
 
 
 
@@ -31,23 +30,25 @@ const experiences = [
     {
         id: 1,
         role: "Fullstack Developer",
-        company: "Crow technology",
-        period: "mai 2024 - jan 2025 ",
-        description: [
-            "Optimisation des performances de l'application.",
-        ],
-        image: google,
-    },
-    {
-        id: 2,
-        role: "Fullstack Developer",
         company: "Mandigo",
         period: "Jan 2021 - Août 2021",
         description: [
             "Création d'une plateforme interne de collaboration pour les équipes.",
             "Mise en place d'une application de Gestion de scolarite.",
         ],
-        image: meta,
+        image: mandigo,
+    },
+    {
+        id: 2,
+        role: "Technicien Informatique & Maintenance",
+        company: "Ahmed Technologies",
+        period: "Juin 2025 - en cours",
+        description: [
+            "Gestion et maintenance du parc informatique.",
+            "Support technique et résolution d’incidents matériels et logiciels.",
+            "Installation et configuration des postes et équipements réseau."
+        ],
+        image: atech,
     },
     
 ];
