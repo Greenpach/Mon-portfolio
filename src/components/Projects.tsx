@@ -18,20 +18,26 @@ const projects = [
     },
     {
         id: 2,
-        title: 'Plateforme Information sur les pays du monde',
+        title: 'Plateforme d\' information sur les pays du monde',
         description: 'Application web développée pour consulter les informations détaillées des pays du monde à partir d’une API REST externe. Le projet implémente la récupération et la gestion asynchrone des données, l’affichage dynamique des informations (population, superficie, capitale, région, monnaie, etc.) ainsi qu’un système de recherche et de filtrage en temps réel.L’interface est conçue de manière responsive avec une architecture modulaire basée sur des composants réutilisables. Ce projet met en avant la gestion d’état, l’intégration d’API, l’optimisation des performances et l’organisation structurée du code.',
         technologies: ['React'],
         demoLink: 'https://pays-info.netlify.app/',
-        repoLink: '#',
+        repoLink: 'https://github.com/Greenpach/infospays',
         image: img2,
     },
     {
         id: 3,
-        title: 'Portfolio interactif',
-        description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae magni deserunt debitis recusandae ab harum totam, eum facilis et ratione officia ut inventore aspernatur',
-        technologies: ['HTML', 'CSS', 'JavaScript'],
+        title: 'Application de Gestion de restaurant',
+        description: ` Restaurant POS – Application de gestion de caisse (Offline-First)
+
+                        Restaurant POS est une application web destinée aux petits restaurants pour gérer facilement les ventes. Elle permet de créer des factures, imprimer des tickets clients et suivre les ventes quotidiennes.
+
+                        L’application fonctionne en mode offline-first : les données sont stockées localement dans le navigateur avec IndexedDB, ce qui permet de continuer à travailler même sans connexion internet.
+                        .`,
+
+        technologies: ['React','IndexedDB ', 'CSS', 'JavaScript'],
         demoLink: '#',
-        repoLink: '#',
+        repoLink: 'https://github.com/Greenpach/infospays',
         image: img3,
     },
    
